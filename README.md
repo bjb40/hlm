@@ -13,7 +13,7 @@ This is code and selected output for comparing individual fixed effect models an
 #Output to check Data Cleaning
 
 - output/output-mean.txt: (1) reports basic statistics of full data; cross-checked with HRS codebook to confirm accurate data loading; (2) reports tables to confirm dummy variable recoding.
--output/transform-dat.txt: (1) confirms data appropriately recoded from "wide" format to "long" (2) identifies variable renames (3) summarizes results of transforming age, income, education, and wealth; (4) outputs descriptive statistics of transformed data.
+- output/transform-dat.txt: (1) confirms data appropriately recoded from "wide" format to "long" (2) identifies variable renames (3) summarizes results of transforming age, income, education, and wealth; (4) outputs descriptive statistics of transformed data.
 
 #Stata
 
