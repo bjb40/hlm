@@ -1,0 +1,2 @@
+		mean		sd	MC_error	val2.5pc	val97.5pc	start	sample
+	b0	0.006114	0.01176	3.657E-4	-0.01702	0.02912		7000	1000

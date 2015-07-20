@@ -1,0 +1,320 @@
+[1] 2015-06-23
+     hhidpn              r6shlt          r7shlt          r8shlt     
+ Min.   :     1010   Min.   :1       Min.   :1       Min.   :1      
+ 1st Qu.: 58542510   1st Qu.:2       1st Qu.:2       1st Qu.:2      
+ Median :202284010   Median :3       Median :3       Median :3      
+ Mean   :255521272   Mean   :3       Mean   :3       Mean   :3      
+ 3rd Qu.:500593510   3rd Qu.:4       3rd Qu.:4       3rd Qu.:4      
+ Max.   :959738010   Max.   :5       Max.   :5       Max.   :5      
+                     NA's   :19165   NA's   :17207   NA's   :18875  
+     r9shlt         r10shlt         r11shlt         rabyear        ragender   
+ Min.   :1       Min.   :1       Min.   :1       Min.   :1890   Min.   :1.00  
+ 1st Qu.:2       1st Qu.:2       1st Qu.:2       1st Qu.:1926   1st Qu.:1.00  
+ Median :3       Median :3       Median :3       Median :1938   Median :2.00  
+ Mean   :3       Mean   :3       Mean   :3       Mean   :1937   Mean   :1.56  
+ 3rd Qu.:4       3rd Qu.:4       3rd Qu.:4       3rd Qu.:1950   3rd Qu.:2.00  
+ Max.   :5       Max.   :5       Max.   :5       Max.   :1992   Max.   :2.00  
+ NA's   :20116   NA's   :15296   NA's   :16786   NA's   :2                    
+    raedyrs       raracem        h6itot            h7itot            h8itot        
+ Min.   : 0    Min.   :1.0   Min.   :      0   Min.   :      0   Min.   :       0  
+ 1st Qu.:11    1st Qu.:1.0   1st Qu.:  16488   1st Qu.:  18000   1st Qu.:   18684  
+ Median :12    Median :1.0   Median :  32220   Median :  35820   Median :   37000  
+ Mean   :12    Mean   :1.3   Mean   :  52376   Mean   :  60367   Mean   :   64998  
+ 3rd Qu.:14    3rd Qu.:1.0   3rd Qu.:  60680   3rd Qu.:  69828   3rd Qu.:   70012  
+ Max.   :18    Max.   :3.0   Max.   :7398754   Max.   :3530526   Max.   :25360192  
+ NA's   :123   NA's   :83    NA's   :19154     NA's   :17190     NA's   :18850     
+     h9itot            h10itot           h11itot           h6atota        
+ Min.   :       0   Min.   :      0   Min.   :      0   Min.   : -519652  
+ 1st Qu.:   19308   1st Qu.:  19052   1st Qu.:  16981   1st Qu.:   43500  
+ Median :   38900   Median :  39008   Median :  34822   Median :  148000  
+ Mean   :   67479   Mean   :  63416   Mean   :  61471   Mean   :  359456  
+ 3rd Qu.:   73161   3rd Qu.:  76599   3rd Qu.:  71109   3rd Qu.:  387000  
+ Max.   :60014376   Max.   :5440160   Max.   :3664224   Max.   :90648200  
+ NA's   :20102      NA's   :15285     NA's   :16765     NA's   :19154     
+    h7atota            h8atota            h9atota            h10atota       
+ Min.   :-2245500   Min.   :-2199392   Min.   :-1064000   Min.   :-2760000  
+ 1st Qu.:   40050   1st Qu.:   43500   1st Qu.:   42500   1st Qu.:   15000  
+ Median :  156000   Median :  188500   Median :  188900   Median :  125000  
+ Mean   :  411948   Mean   :  490024   Mean   :  486296   Mean   :  377232  
+ 3rd Qu.:  420000   3rd Qu.:  505000   3rd Qu.:  517000   3rd Qu.:  394000  
+ Max.   :41446252   Max.   :43512000   Max.   :40786175   Max.   :49900000  
+ NA's   :17190      NA's   :18850      NA's   :20102      NA's   :15285     
+    h11atota           r6mstat         r7mstat         r8mstat         r9mstat     
+ Min.   :-1510000   Min.   :1       Min.   :1       Min.   :1       Min.   :1      
+ 1st Qu.:   13500   1st Qu.:1       1st Qu.:1       1st Qu.:1       1st Qu.:1      
+ Median :  118000   Median :1       Median :1       Median :1       Median :1      
+ Mean   :  379890   Mean   :3       Mean   :3       Mean   :3       Mean   :3      
+ 3rd Qu.:  390700   3rd Qu.:5       3rd Qu.:5       3rd Qu.:5       3rd Qu.:5      
+ Max.   :43300000   Max.   :8       Max.   :8       Max.   :8       Max.   :8      
+ NA's   :16765      NA's   :19169   NA's   :17205   NA's   :18852   NA's   :20104  
+    r10mstat        r11mstat         r6lbrf          r7lbrf          r8lbrf     
+ Min.   :1       Min.   :1       Min.   :1       Min.   :1       Min.   :1      
+ 1st Qu.:1       1st Qu.:1       1st Qu.:2       1st Qu.:1       1st Qu.:2      
+ Median :1       Median :1       Median :5       Median :5       Median :5      
+ Mean   :3       Mean   :3       Mean   :4       Mean   :4       Mean   :4      
+ 3rd Qu.:5       3rd Qu.:5       3rd Qu.:5       3rd Qu.:5       3rd Qu.:5      
+ Max.   :8       Max.   :8       Max.   :7       Max.   :7       Max.   :7      
+ NA's   :15291   NA's   :16768   NA's   :19154   NA's   :17190   NA's   :18850  
+     r9lbrf         r10lbrf         r11lbrf         r6wtresp        r7wtresp    
+ Min.   :1       Min.   :1       Min.   :1       Min.   :    0   Min.   :    0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:1       1st Qu.: 1914   1st Qu.: 2072  
+ Median :5       Median :5       Median :5       Median : 3100   Median : 3407  
+ Mean   :4       Mean   :4       Mean   :4       Mean   : 3416   Mean   : 3985  
+ 3rd Qu.:5       3rd Qu.:5       3rd Qu.:5       3rd Qu.: 4145   3rd Qu.: 5040  
+ Max.   :7       Max.   :7       Max.   :7       Max.   :19101   Max.   :16170  
+ NA's   :20102   NA's   :15285   NA's   :16765   NA's   :19154   NA's   :17190  
+    r8wtresp        r9wtresp       r10wtresp       r11wtresp    
+ Min.   :    0   Min.   :    0   Min.   :    0   Min.   :    0  
+ 1st Qu.: 2101   1st Qu.: 2087   1st Qu.: 1744   1st Qu.: 1818  
+ Median : 3514   Median : 3521   Median : 3425   Median : 3546  
+ Mean   : 4154   Mean   : 4220   Mean   : 4304   Mean   : 4413  
+ 3rd Qu.: 5247   3rd Qu.: 5347   3rd Qu.: 5606   3rd Qu.: 5733  
+ Max.   :17035   Max.   :16558   Max.   :19408   Max.   :18269  
+ NA's   :18850   NA's   :20102   NA's   :15285   NA's   :16765  
+
+
+@@@@@@@@@@@@@@@@@@@
+WAVE 6 changed to long
+@@@@@@@@@@@@@@@@@@@@@
+
+     hhidpn             rabyear        ragender       raedyrs       raracem   
+ Min.   :     1010   Min.   :1890   Min.   :1.00   Min.   : 0    Min.   :1.0  
+ 1st Qu.: 58542510   1st Qu.:1926   1st Qu.:1.00   1st Qu.:11    1st Qu.:1.0  
+ Median :202284010   Median :1938   Median :2.00   Median :12    Median :1.0  
+ Mean   :255521272   Mean   :1937   Mean   :1.56   Mean   :12    Mean   :1.3  
+ 3rd Qu.:500593510   3rd Qu.:1950   3rd Qu.:2.00   3rd Qu.:14    3rd Qu.:1.0  
+ Max.   :959738010   Max.   :1992   Max.   :2.00   Max.   :18    Max.   :3.0  
+                     NA's   :2                     NA's   :123   NA's   :83   
+      shlt           mstat            lbrf            itot        
+ Min.   :1       Min.   :1       Min.   :1       Min.   :      0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:2       1st Qu.:  16488  
+ Median :3       Median :1       Median :5       Median :  32220  
+ Mean   :3       Mean   :3       Mean   :4       Mean   :  52376  
+ 3rd Qu.:4       3rd Qu.:5       3rd Qu.:5       3rd Qu.:  60680  
+ Max.   :5       Max.   :8       Max.   :7       Max.   :7398754  
+ NA's   :19165   NA's   :19169   NA's   :19154   NA's   :19154    
+     atota               wave  
+ Min.   : -519652   Min.   :6  
+ 1st Qu.:   43500   1st Qu.:6  
+ Median :  148000   Median :6  
+ Mean   :  359456   Mean   :6  
+ 3rd Qu.:  387000   3rd Qu.:6  
+ Max.   :90648200   Max.   :6  
+ NA's   :19154                 
+
+
+@@@@@@@@@@@@@@@@@@@
+WAVE 7 changed to long
+@@@@@@@@@@@@@@@@@@@@@
+
+     hhidpn             rabyear        ragender       raedyrs       raracem   
+ Min.   :     1010   Min.   :1890   Min.   :1.00   Min.   : 0    Min.   :1.0  
+ 1st Qu.: 58542510   1st Qu.:1926   1st Qu.:1.00   1st Qu.:11    1st Qu.:1.0  
+ Median :202284010   Median :1938   Median :2.00   Median :12    Median :1.0  
+ Mean   :255521272   Mean   :1937   Mean   :1.56   Mean   :12    Mean   :1.3  
+ 3rd Qu.:500593510   3rd Qu.:1950   3rd Qu.:2.00   3rd Qu.:14    3rd Qu.:1.0  
+ Max.   :959738010   Max.   :1992   Max.   :2.00   Max.   :18    Max.   :3.0  
+                     NA's   :2                     NA's   :123   NA's   :83   
+      shlt           mstat            lbrf            itot        
+ Min.   :1       Min.   :1       Min.   :1       Min.   :      0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:1       1st Qu.:  18000  
+ Median :3       Median :1       Median :5       Median :  35820  
+ Mean   :3       Mean   :3       Mean   :4       Mean   :  60367  
+ 3rd Qu.:4       3rd Qu.:5       3rd Qu.:5       3rd Qu.:  69828  
+ Max.   :5       Max.   :8       Max.   :7       Max.   :3530526  
+ NA's   :17207   NA's   :17205   NA's   :17190   NA's   :17190    
+     atota               wave  
+ Min.   :-2245500   Min.   :7  
+ 1st Qu.:   40050   1st Qu.:7  
+ Median :  156000   Median :7  
+ Mean   :  411948   Mean   :7  
+ 3rd Qu.:  420000   3rd Qu.:7  
+ Max.   :41446252   Max.   :7  
+ NA's   :17190                 
+
+
+@@@@@@@@@@@@@@@@@@@
+WAVE 8 changed to long
+@@@@@@@@@@@@@@@@@@@@@
+
+     hhidpn             rabyear        ragender       raedyrs       raracem   
+ Min.   :     1010   Min.   :1890   Min.   :1.00   Min.   : 0    Min.   :1.0  
+ 1st Qu.: 58542510   1st Qu.:1926   1st Qu.:1.00   1st Qu.:11    1st Qu.:1.0  
+ Median :202284010   Median :1938   Median :2.00   Median :12    Median :1.0  
+ Mean   :255521272   Mean   :1937   Mean   :1.56   Mean   :12    Mean   :1.3  
+ 3rd Qu.:500593510   3rd Qu.:1950   3rd Qu.:2.00   3rd Qu.:14    3rd Qu.:1.0  
+ Max.   :959738010   Max.   :1992   Max.   :2.00   Max.   :18    Max.   :3.0  
+                     NA's   :2                     NA's   :123   NA's   :83   
+      shlt           mstat            lbrf            itot         
+ Min.   :1       Min.   :1       Min.   :1       Min.   :       0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:2       1st Qu.:   18684  
+ Median :3       Median :1       Median :5       Median :   37000  
+ Mean   :3       Mean   :3       Mean   :4       Mean   :   64998  
+ 3rd Qu.:4       3rd Qu.:5       3rd Qu.:5       3rd Qu.:   70012  
+ Max.   :5       Max.   :8       Max.   :7       Max.   :25360192  
+ NA's   :18875   NA's   :18852   NA's   :18850   NA's   :18850     
+     atota               wave  
+ Min.   :-2199392   Min.   :8  
+ 1st Qu.:   43500   1st Qu.:8  
+ Median :  188500   Median :8  
+ Mean   :  490024   Mean   :8  
+ 3rd Qu.:  505000   3rd Qu.:8  
+ Max.   :43512000   Max.   :8  
+ NA's   :18850                 
+
+
+@@@@@@@@@@@@@@@@@@@
+WAVE 9 changed to long
+@@@@@@@@@@@@@@@@@@@@@
+
+     hhidpn             rabyear        ragender       raedyrs       raracem   
+ Min.   :     1010   Min.   :1890   Min.   :1.00   Min.   : 0    Min.   :1.0  
+ 1st Qu.: 58542510   1st Qu.:1926   1st Qu.:1.00   1st Qu.:11    1st Qu.:1.0  
+ Median :202284010   Median :1938   Median :2.00   Median :12    Median :1.0  
+ Mean   :255521272   Mean   :1937   Mean   :1.56   Mean   :12    Mean   :1.3  
+ 3rd Qu.:500593510   3rd Qu.:1950   3rd Qu.:2.00   3rd Qu.:14    3rd Qu.:1.0  
+ Max.   :959738010   Max.   :1992   Max.   :2.00   Max.   :18    Max.   :3.0  
+                     NA's   :2                     NA's   :123   NA's   :83   
+      shlt           mstat            lbrf            itot         
+ Min.   :1       Min.   :1       Min.   :1       Min.   :       0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:2       1st Qu.:   19308  
+ Median :3       Median :1       Median :5       Median :   38900  
+ Mean   :3       Mean   :3       Mean   :4       Mean   :   67479  
+ 3rd Qu.:4       3rd Qu.:5       3rd Qu.:5       3rd Qu.:   73161  
+ Max.   :5       Max.   :8       Max.   :7       Max.   :60014376  
+ NA's   :20116   NA's   :20104   NA's   :20102   NA's   :20102     
+     atota               wave  
+ Min.   :-1064000   Min.   :9  
+ 1st Qu.:   42500   1st Qu.:9  
+ Median :  188900   Median :9  
+ Mean   :  486296   Mean   :9  
+ 3rd Qu.:  517000   3rd Qu.:9  
+ Max.   :40786175   Max.   :9  
+ NA's   :20102                 
+
+
+@@@@@@@@@@@@@@@@@@@
+WAVE 10 changed to long
+@@@@@@@@@@@@@@@@@@@@@
+
+     hhidpn             rabyear        ragender       raedyrs       raracem   
+ Min.   :     1010   Min.   :1890   Min.   :1.00   Min.   : 0    Min.   :1.0  
+ 1st Qu.: 58542510   1st Qu.:1926   1st Qu.:1.00   1st Qu.:11    1st Qu.:1.0  
+ Median :202284010   Median :1938   Median :2.00   Median :12    Median :1.0  
+ Mean   :255521272   Mean   :1937   Mean   :1.56   Mean   :12    Mean   :1.3  
+ 3rd Qu.:500593510   3rd Qu.:1950   3rd Qu.:2.00   3rd Qu.:14    3rd Qu.:1.0  
+ Max.   :959738010   Max.   :1992   Max.   :2.00   Max.   :18    Max.   :3.0  
+                     NA's   :2                     NA's   :123   NA's   :83   
+      shlt           mstat            lbrf            itot        
+ Min.   :1       Min.   :1       Min.   :1       Min.   :      0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:1       1st Qu.:  19052  
+ Median :3       Median :1       Median :5       Median :  39008  
+ Mean   :3       Mean   :3       Mean   :4       Mean   :  63416  
+ 3rd Qu.:4       3rd Qu.:5       3rd Qu.:5       3rd Qu.:  76599  
+ Max.   :5       Max.   :8       Max.   :7       Max.   :5440160  
+ NA's   :15296   NA's   :15291   NA's   :15285   NA's   :15285    
+     atota               wave   
+ Min.   :-2760000   Min.   :10  
+ 1st Qu.:   15000   1st Qu.:10  
+ Median :  125000   Median :10  
+ Mean   :  377232   Mean   :10  
+ 3rd Qu.:  394000   3rd Qu.:10  
+ Max.   :49900000   Max.   :10  
+ NA's   :15285                  
+
+
+@@@@@@@@@@@@@@@@@@@
+WAVE 11 changed to long
+@@@@@@@@@@@@@@@@@@@@@
+
+     hhidpn             rabyear        ragender       raedyrs       raracem   
+ Min.   :     1010   Min.   :1890   Min.   :1.00   Min.   : 0    Min.   :1.0  
+ 1st Qu.: 58542510   1st Qu.:1926   1st Qu.:1.00   1st Qu.:11    1st Qu.:1.0  
+ Median :202284010   Median :1938   Median :2.00   Median :12    Median :1.0  
+ Mean   :255521272   Mean   :1937   Mean   :1.56   Mean   :12    Mean   :1.3  
+ 3rd Qu.:500593510   3rd Qu.:1950   3rd Qu.:2.00   3rd Qu.:14    3rd Qu.:1.0  
+ Max.   :959738010   Max.   :1992   Max.   :2.00   Max.   :18    Max.   :3.0  
+                     NA's   :2                     NA's   :123   NA's   :83   
+      shlt           mstat            lbrf            itot        
+ Min.   :1       Min.   :1       Min.   :1       Min.   :      0  
+ 1st Qu.:2       1st Qu.:1       1st Qu.:1       1st Qu.:  16981  
+ Median :3       Median :1       Median :5       Median :  34822  
+ Mean   :3       Mean   :3       Mean   :4       Mean   :  61471  
+ 3rd Qu.:4       3rd Qu.:5       3rd Qu.:5       3rd Qu.:  71109  
+ Max.   :5       Max.   :8       Max.   :7       Max.   :3664224  
+ NA's   :16786   NA's   :16768   NA's   :16765   NA's   :16765    
+     atota               wave   
+ Min.   :-1510000   Min.   :11  
+ 1st Qu.:   13500   1st Qu.:11  
+ Median :  118000   Median :11  
+ Mean   :  379890   Mean   :11  
+ 3rd Qu.:  390700   3rd Qu.:11  
+ Max.   :43300000   Max.   :11  
+ NA's   :16765                  
+
+
+@@@@@@@@@@@@@@@
+Cleaning of data
+@@@@@@@@@@@@@@@
+
+        male
+ragender      0      1
+       1      0  98076
+       2 125838      0
+
+Race dummy series (ref=white)
+       orace
+raracem      0      1
+      1 168450      0
+      2  40098      0
+      3      0  14868
+
+       black
+raracem      0      1
+      1 168450      0
+      2      0  40098
+      3  14868      0
+
+Married dummy
+     marr
+mstat     0     1
+    1     0 69829
+    2     0  1162
+    3  4603     0
+    4  2042     0
+    5 11669     0
+    6    45     0
+    7 22924     0
+    8  4251     0
+
+
+ Labor Force dummy series (inclusive)
+    ret
+lbrf     0     1
+   1     0 28137
+   2     0  6344
+   3  2585     0
+   4  8719     0
+   5 58004     0
+   6  3316     0
+   7  9463     0
+
+    emp
+lbrf     0     1
+   1     0 28137
+   2     0  6344
+   3  2585     0
+   4  8719     0
+   5 58004     0
+   6  3316     0
+   7  9463     0
+
+    unemp
+lbrf     0     1
+   1 28137     0
+   2  6344     0
+   3     0  2585
+   4  8719     0
+   5 58004     0
+   6     0  3316
+   7     0  9463

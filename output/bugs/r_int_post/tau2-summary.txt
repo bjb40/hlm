@@ -1,0 +1,2 @@
+		mean	sd	MC_error	val2.5pc	val97.5pc	start	sample
+	tau2	0.6964	0.07038	0.002834	0.5642	0.8408	2000	1000
